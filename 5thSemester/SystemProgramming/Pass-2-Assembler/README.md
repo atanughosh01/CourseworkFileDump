@@ -1,4 +1,4 @@
-                                                                    System Programming Assignment - 3
+                                           System Programming Assignment - 3
 
 # Names, Rolls and Email-ids of Group Members
 
