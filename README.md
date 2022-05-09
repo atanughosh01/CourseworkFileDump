@@ -1,2 +1,2 @@
-# Coursework-File-Dump
-All files from coursework
+# CourseworkFileDump
+All files (study materials) from/for university course
